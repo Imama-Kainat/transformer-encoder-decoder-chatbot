@@ -1,6 +1,10 @@
 # Empathetic Conversational Chatbot
+![Uploading image.png…]()
+
 
 A Transformer-based chatbot built from scratch that generates empathetic responses based on emotional context, situation, and user input. This project implements a complete end-to-end deep learning pipeline including data preprocessing, model architecture, training, evaluation, and deployment.
+
+
 
 ## Table of Contents
 
