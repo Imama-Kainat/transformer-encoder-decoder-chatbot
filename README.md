@@ -14,7 +14,7 @@ A Transformer-based chatbot built from scratch that generates empathetic respons
 - [Project Structure](#project-structure)
 - [Training Details](#training-details)
 - [Evaluation Metrics](#evaluation-metrics)
-- [Demo](#demo)
+- [Live Demo](https://huggingface.co/spaces/ZainabEman/Empathetic_Conversational_Chatbot)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
